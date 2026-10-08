@@ -1,10 +1,11 @@
 #include <iostream>
 #include <cmath>
+
 using namespace std;
 
 int main()
 {
-    double S;
+    int S;
     int i;
 
     // 1. while
@@ -19,7 +20,6 @@ int main()
 
     cout << "while: " << S << endl;
 
-
     // 2. do...while
     S = 0;
     i = 1;
@@ -32,7 +32,6 @@ int main()
 
     cout << "do while: " << S << endl;
 
-
     // 3. for, i++
     S = 0;
 
@@ -42,7 +41,6 @@ int main()
     }
 
     cout << "for i++: " << S << endl;
-
 
     // 4. for, i--
     S = 0;
