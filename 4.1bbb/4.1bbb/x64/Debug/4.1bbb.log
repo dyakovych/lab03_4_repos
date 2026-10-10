@@ -1,0 +1,6 @@
+﻿  4.1bbb.cpp
+C:\Users\ПАПІЧ\source\repos\4.1bbb\4.1bbb.cpp(17,44): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ПАПІЧ\source\repos\4.1bbb\4.1bbb.cpp(29,44): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ПАПІЧ\source\repos\4.1bbb\4.1bbb.cpp(40,44): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ПАПІЧ\source\repos\4.1bbb\4.1bbb.cpp(50,44): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  4.1bbb.vcxproj -> C:\Users\ПАПІЧ\source\repos\4.1bbb\x64\Debug\4.1bbb.exe
