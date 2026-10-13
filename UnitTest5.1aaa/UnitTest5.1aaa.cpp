@@ -3,9 +3,9 @@
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
-namespace lab51test
+namespace UnitTest51aaa
 {
-	TEST_CLASS(lab51test)
+	TEST_CLASS(UnitTest51aaa)
 	{
 	public:
 		

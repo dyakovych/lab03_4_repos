@@ -1,10 +1,10 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\папіч\\source\\repos\\lab5.1test\\lab5.1test.cpp",
+        "Source": "c:\\users\\папіч\\source\\repos\\unittest5.1aaa\\unittest5.1aaa.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\users\\папіч\\source\\repos\\lab5.1test\\pch.h",
+            "c:\\users\\папіч\\source\\repos\\unittest5.1aaa\\pch.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\auxiliary\\vs\\unittest\\include\\cppunittest.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\auxiliary\\vs\\unittest\\include\\cppunittestcommon.h",
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\shared\\sdkddkver.h",

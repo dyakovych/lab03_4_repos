@@ -141,6 +141,11 @@
   <ItemGroup>
     <ClCompile Include="5.1a.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\UnitTest5.1a\UnitTest5.1a.vcxproj">
+      <Project>{9d1fcfeb-008d-28ad-0c18-a0d634eccabf}</Project>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

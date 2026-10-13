@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="lab5.1test.vcxproj" />
+  <Project Path="UnitTest5.1aaa.vcxproj" />
 </Solution>
