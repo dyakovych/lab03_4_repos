@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "lab5.1test\\x64\\Debug\\lab5.1test.obj",
+            "outputs": [
+                "lab5.1test\\x64\\Debug\\lab5.1test.cpp.obj.dt.module.json",
+                "lab5.1test\\x64\\Debug\\lab5.1test.cpp.obj.dt.d.json",
+                "lab5.1test\\x64\\Debug\\lab5.1test.pch"
+            ],
+            "requires": []
+        }
+    ]
+}
