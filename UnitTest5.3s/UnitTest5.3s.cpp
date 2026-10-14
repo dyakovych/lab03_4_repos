@@ -1,6 +1,6 @@
 ﻿#include "pch.h"
 #include "CppUnitTest.h"
-#include "../5.3/5.3.cpp"   // <-- замініть Project7 на назву вашого проекту з лабою 5.3
+#include "../5.3/5.3.cpp"   
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 

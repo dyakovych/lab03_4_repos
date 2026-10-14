@@ -1,4 +1,1 @@
-﻿  pch.cpp
-  UnitTest5.3.cpp
-     Creating library C:\Users\ПАПІЧ\source\repos\5.3\x64\Debug\UnitTest5.3.lib and object C:\Users\ПАПІЧ\source\repos\5.3\x64\Debug\UnitTest5.3.exp
-  UnitTest5.3.vcxproj -> C:\Users\ПАПІЧ\source\repos\5.3\x64\Debug\UnitTest5.3.dll
+﻿C:\Users\ПАПІЧ\source\repos\UnitTest5.3\UnitTest5.3.vcxproj : error MSB4025: The project file could not be loaded. Could not find file 'C:\Users\ПАПІЧ\source\repos\UnitTest5.3\UnitTest5.3.vcxproj'.
