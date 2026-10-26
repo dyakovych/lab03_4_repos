@@ -1,0 +1,2 @@
+﻿  UnitTest5.3dddf.cpp
+C:\Users\ПАПІЧ\source\repos\UnitTest5.3dddf\UnitTest5.3dddf.cpp(1,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
