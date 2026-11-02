@@ -2,6 +2,9 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
+      <FullPath>C:\Users\ПАПІЧ\source\repos\6.1iter\x64\Debug\6.1iter.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
       <FullPath>C:\Users\ПАПІЧ\source\repos\6.1iter\x64\Debug\UnitTest6.1iter.dll</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
