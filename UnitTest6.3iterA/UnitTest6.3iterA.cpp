@@ -1,5 +1,4 @@
-﻿```cpp
-#include "pch.h"
+﻿#include "pch.h"
 #include "CppUnitTest.h"
 #include "../6.3iterA/6.3iterA.cpp"
 

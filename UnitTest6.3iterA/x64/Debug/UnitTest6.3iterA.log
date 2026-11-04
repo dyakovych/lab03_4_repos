@@ -1,3 +1,22 @@
 ﻿  UnitTest6.3iterA.cpp
-     Creating library C:\Users\ПАПІЧ\source\repos\6.3iterA\x64\Debug\UnitTest6.3iterA.lib and object C:\Users\ПАПІЧ\source\repos\6.3iterA\x64\Debug\UnitTest6.3iterA.exp
-  UnitTest6.3iterA.vcxproj -> C:\Users\ПАПІЧ\source\repos\6.3iterA\x64\Debug\UnitTest6.3iterA.dll
+C:\Users\ПАПІЧ\source\repos\UnitTest6.3iterA\UnitTest6.3iterA.cpp(18,21): error C3861: 'SumOdd': identifier not found
+  (compiling source file '/UnitTest6.3iterA.cpp')
+  
+C:\Users\ПАПІЧ\source\repos\UnitTest6.3iterA\UnitTest6.3iterA.cpp(28,21): error C2065: 'SumOdd': undeclared identifier
+  (compiling source file '/UnitTest6.3iterA.cpp')
+  
+C:\Users\ПАПІЧ\source\repos\UnitTest6.3iterA\UnitTest6.3iterA.cpp(28,28): error C2062: type 'int' unexpected
+  (compiling source file '/UnitTest6.3iterA.cpp')
+  
+C:\Users\ПАПІЧ\source\repos\UnitTest6.3iterA\UnitTest6.3iterA.cpp(38,27): error C2065: 'SumOdd': undeclared identifier
+  (compiling source file '/UnitTest6.3iterA.cpp')
+  
+C:\Users\ПАПІЧ\source\repos\UnitTest6.3iterA\UnitTest6.3iterA.cpp(38,34): error C2062: type '__int64' unexpected
+  (compiling source file '/UnitTest6.3iterA.cpp')
+  
+C:\Users\ПАПІЧ\source\repos\UnitTest6.3iterA\UnitTest6.3iterA.cpp(48,23): error C2065: 'SumOdd': undeclared identifier
+  (compiling source file '/UnitTest6.3iterA.cpp')
+  
+C:\Users\ПАПІЧ\source\repos\UnitTest6.3iterA\UnitTest6.3iterA.cpp(48,30): error C2062: type 'short' unexpected
+  (compiling source file '/UnitTest6.3iterA.cpp')
+  

@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\UnitTest7.1iterA.obj",
+            "outputs": [
+                "x64\\Debug\\UnitTest7.1iterA.cpp.obj.dt.module.json",
+                "x64\\Debug\\UnitTest7.1iterA.cpp.obj.dt.d.json",
+                "x64\\Debug\\UnitTest7.1iterA.pch"
+            ],
+            "requires": []
+        }
+    ]
+}
