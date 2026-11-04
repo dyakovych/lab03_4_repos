@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "7.2iter\\x64\\Debug\\7.2iter.obj",
+            "outputs": [
+                "7.2iter\\x64\\Debug\\7.2iter.cpp.obj.dt.module.json",
+                "7.2iter\\x64\\Debug\\7.2iter.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
