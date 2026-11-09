@@ -4,5 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="../UnitTest7.1recA/UnitTest7.1recA.vcxproj" />
-  <Project Path="7.1recA.vcxproj" />
+  <Project Path="7.1recA.vcxproj" Id="1cd6fb48-e48f-4c8a-9c94-c04f58f51aff" />
 </Solution>

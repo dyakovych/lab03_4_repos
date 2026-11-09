@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "8.1iterA\\x64\\Debug\\8.1iterA.obj",
+            "outputs": [
+                "8.1iterA\\x64\\Debug\\8.1iterA.cpp.obj.dt.module.json",
+                "8.1iterA\\x64\\Debug\\8.1iterA.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
