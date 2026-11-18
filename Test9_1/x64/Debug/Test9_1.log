@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppClean.targets(77,5): warning : Access to the path 'c:\users\папіч\source\repos\9.1a\x64\debug\test9_1.exe' is denied.
+  test.cpp
+LINK : fatal error LNK1104: cannot open file 'C:\Users\ПАПІЧ\source\repos\9.1A\x64\Debug\Test9_1.exe'

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "9.1\\x64\\Debug\\sum.obj",
+            "outputs": [
+                "9.1\\x64\\Debug\\sum.cpp.obj.dt.module.json",
+                "9.1\\x64\\Debug\\sum.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

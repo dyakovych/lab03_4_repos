@@ -1,0 +1,9 @@
+﻿  globals.cpp
+C:\Users\ПАПІЧ\source\repos\9.1A\globals.cpp(9,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  series.cpp
+C:\Users\ПАПІЧ\source\repos\9.1A\series.cpp(22,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  term.cpp
+C:\Users\ПАПІЧ\source\repos\9.1A\term.cpp(11,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  UnitTest9.1.cpp
+C:\Users\ПАПІЧ\source\repos\UnitTest9.1\UnitTest9.1.cpp(58,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...

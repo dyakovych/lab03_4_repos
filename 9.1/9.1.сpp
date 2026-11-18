@@ -1,0 +1,50 @@
+// Lab_9_1.cpp
+// головний файл проекту – функція main
+
+#include <iostream>
+#include <math.h>
+#include <iomanip>
+
+#include "dod.h"
+#include "sum.h"
+#include "vars.h"
+
+using namespace std;
+
+using namespace nsDod;
+using namespace nsSum;
+using namespace nsVar;
+
+int main()
+{
+    cout << "x_p = "; cin >> x_p;
+    cout << "x_k = "; cin >> x_k;
+    cout << "dx  = "; cin >> dx;
+    cout << "e   = "; cin >> e;
+    cout << endl;
+
+    // заголовок та шапка таблиці
+    cout << "arctg x" << endl;
+    cout << "----------------------------------------------------" << endl;
+    cout << "|" << setw(8) << "x" << " |"
+         << setw(12) << "atan(x)" << " |"
+         << setw(12) << "sum" << " |"
+         << setw(8) << "n" << " |" << endl;
+    cout << "----------------------------------------------------" << endl;
+
+    x = x_p;
+    while ( x <= x_k ){
+        sum();                      // виклик процедури обчислення суми
+
+        cout << "|" << setw(8) << fixed << setprecision(3) << x << " |"
+             << setw(12) << setprecision(6) << atan(x) << " |"
+             << setw(12) << s << " |"
+             << setw(8) << n << " |" << endl;
+
+        x += dx;
+    }
+    cout << "----------------------------------------------------" << endl;
+
+    cin.get(); cin.get();
+    return 0;
+}

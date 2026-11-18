@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "9.1\\x64\\Debug\\vars.obj",
+            "outputs": [
+                "9.1\\x64\\Debug\\vars.h.obj.dt.module.json",
+                "9.1\\x64\\Debug\\vars.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

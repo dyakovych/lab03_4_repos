@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "32re321rd32d\\x64\\Debug\\e2e32eds321.obj",
+            "outputs": [
+                "32re321rd32d\\x64\\Debug\\e2e32eds321.cpp.obj.dt.module.json",
+                "32re321rd32d\\x64\\Debug\\e2e32eds321.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

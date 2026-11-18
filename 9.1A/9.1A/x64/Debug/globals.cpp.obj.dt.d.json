@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\папіч\\source\\repos\\9.1a\\globals.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\папіч\\source\\repos\\9.1a\\globals.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

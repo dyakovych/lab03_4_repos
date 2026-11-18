@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "9.1A\\x64\\Debug\\globals.obj",
+            "outputs": [
+                "9.1A\\x64\\Debug\\globals.h.obj.dt.module.json",
+                "9.1A\\x64\\Debug\\globals.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

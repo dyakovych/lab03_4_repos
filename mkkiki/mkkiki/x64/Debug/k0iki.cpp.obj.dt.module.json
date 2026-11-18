@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "mkkiki\\x64\\Debug\\k0iki.obj",
+            "outputs": [
+                "mkkiki\\x64\\Debug\\k0iki.cpp.obj.dt.module.json",
+                "mkkiki\\x64\\Debug\\k0iki.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
