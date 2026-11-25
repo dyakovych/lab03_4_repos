@@ -4,7 +4,8 @@
         "Source": "c:\\users\\папіч\\source\\repos\\9.1a\\term.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\users\\папіч\\source\\repos\\9.1a\\term.h"
+            "c:\\users\\папіч\\source\\repos\\9.1a\\term.h",
+            "c:\\users\\папіч\\source\\repos\\9.1a\\globals.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

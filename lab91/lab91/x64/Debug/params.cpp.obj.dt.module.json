@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "lab91\\x64\\Debug\\params.obj",
+            "outputs": [
+                "lab91\\x64\\Debug\\params.cpp.obj.dt.module.json",
+                "lab91\\x64\\Debug\\params.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

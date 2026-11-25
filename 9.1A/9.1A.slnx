@@ -4,5 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="../Test9.1A/Test9.1A.vcxproj" />
-  <Project Path="9.1A.vcxproj" />
+  <Project Path="9.1A.vcxproj" Id="21f9f822-8e63-4be2-a2fa-054e41f48c4b" />
 </Solution>
